@@ -19,7 +19,7 @@
 </template>
 
 <script>
-  import Splide from '@splidejs/splide';
+  import Splide from '@cycraft/splide';
   import { EVENTS } from "../constants/events";
 
   export default {

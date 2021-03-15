@@ -7,7 +7,7 @@
 
 import Vue from 'vue';
 import Examples from './examples/Examples';
-import '@splidejs/splide/dist/css/themes/splide-sea-green.min.css';
+import '@cycraft/splide/dist/css/themes/splide-sea-green.min.css';
 import '../sass/examples.scss';
 
 document.addEventListener( 'DOMContentLoaded', () => {
